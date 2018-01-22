@@ -16,3 +16,7 @@ XMActionSheet *actionSheet = [[XMActionSheet alloc]initWithTitles:titles iconNam
 
 
 ```
+
+### 参考图片
+
+![image](https://github.com/xinmingZhou/ShareActionView/blob/master/34EFF6E1-6E8F-4DFD-85A8-60FB51D615FB.png)
